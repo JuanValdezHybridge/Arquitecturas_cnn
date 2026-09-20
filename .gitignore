@@ -117,3 +117,7 @@ dmypy.json
 *.temp
 .tmp/
 temp/
+.keras/
+.mplconfig/
+.ipython/
+.jupyter_runtime/
